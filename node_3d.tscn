@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://bka3527gfa0d6"]
+
+[node name="Node3D" type="Node3D"]
+
+[node name="HexGrid" type="HexGrid" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.33759, 5.52128, -8.33759)
